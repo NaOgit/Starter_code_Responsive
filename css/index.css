@@ -38,5 +38,9 @@ header, .experience {
 	.left{
 		width: 100%;
 	}
+	header, .experience{
+		border: 0px;
+		padding: 10px;
+	}
 
 }
