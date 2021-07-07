@@ -37,6 +37,7 @@ header, .experience {
 	}
 	.left{
 		width: 100%;
+		border: 0px;
 	}
 	header, .experience{
 		border: 0px;
